@@ -5,3 +5,19 @@
         <a class="navbar-item" href="/">Portfolio</a>
         <button class="button navbar-burger">
           <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+      <div class="navbar-menu">
+        <div class="navbar-end">
+          <nuxt-link class="navbar-item" to="/">Home</nuxt-link>
+          <nuxt-link class="navbar-item" to="/">About</nuxt-link>
+          <nuxt-link class="navbar-item" to="/">Projects</nuxt-link>
+          <nuxt-link class="navbar-item" to="/">Contact</nuxt-link>
+        </div>
+      </div>
+    </nav>
+  </div>
+</template>
+      
