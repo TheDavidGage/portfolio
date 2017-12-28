@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "David Gage Hall",
+  "author": "David Gage Hall davidgage.hall@gmail.com",
   "private": true,
   "scripts": {
     "dev": "nuxt",
